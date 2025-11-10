@@ -10,3 +10,5 @@
 | Keenan | [@kmanpearl](https://github.com/kmanpearl) | [@wayscience] | Breakfast | 
 | Ethan | [@Ecohen1763](https://github.com/Ecohen1763) | Way lab | Sushi |
 | Dayna | [@olsonday](https://github.com/olsonday) | Way Lab | Soup |
+| Serena | [@serena2001](https://github.com/serena2001) | no  lab | Ramen |
+
